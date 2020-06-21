@@ -1,0 +1,20 @@
+{
+  "name": "pesquisa_operacional_simplex_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Machose/pesquisa_operacional_simplex_node.git",
+  "author": "matheus.goncalves <matheusvieira1900@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "simple-simplex": "^1.0.1",
+    "yasmij": "^0.2.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "sucrase": "^3.15.0"
+  }
+}
