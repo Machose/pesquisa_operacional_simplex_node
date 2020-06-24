@@ -65,7 +65,7 @@ x + 2y <= 9
 /** Second Problem
  * Minimizar 6x + 10y
  * Sujeito a:
-– x + y <= 2
+–x + y <= 2
 x + 2y >= 1
 x <= 5
 x <= 6
